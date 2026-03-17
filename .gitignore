@@ -1,10 +1,6 @@
-# compiled output
+*.class
 *.exe
 *.out
 *.o
-
-# build folders
 build/
-
-# editor files
 .vscode/
