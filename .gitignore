@@ -3,4 +3,10 @@
 *.out
 *.o
 build/
+*.class
+*.exe
+*.log
+*.tmp
+temp files
+IDE files
 .vscode/
